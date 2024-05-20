@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Satky_Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815c9c05689a7a312277846d04858177183664a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c110a479fbf0ec15f306eed609c3cda775d8603a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Satky_Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Satky_Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
