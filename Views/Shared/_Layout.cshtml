@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta name="title" content="Šátky Od Věrky - handmade šátky a turbany" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Jedinečné handmade šátky a turbany aneb dej přednost pohodlí, buď jako v bavlnce. Šití na Baby Born." />
+    <meta name="keywords" content="Šátky, Turbany, Oblečení pro panenky, BabyBorn" />
+
+    <title>Šátky Od Věrky | @ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/brandfonts.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/eshop.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/contact.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/blog.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/one-produkt.css" asp-append-version="true" />
+    <link rel="icon" href="~/pictures/logo_barevne.svg" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <div class="offscreen-menu">
+            <ul>
+                <li>
+                    <a href="/">
+                        <img class="brand-logo"
+                             src="~/pictures/logo.svg"
+                             alt="Logo Šátky od Věrky" />
+                    </a>
+                </li>
+                <li><a class="offscreen-menu__link" href="/">Domů</a></li>
+                <li><a class="offscreen-menu__link" asp-controller="product" asp-action="Index" >Obchod</a></li>
+                <li>
+                    <a class="offscreen-menu__link" asp-controller="Blogs" asp-action="Index">Blog</a>
+                </li>
+                <li>
+                    <a class="offscreen-menu__link" asp-controller="Home" asp-action="Contact">Kontakt</a>
+                </li>
+                <li>
+                    @await Html.PartialAsync("_LoginPartial")
+                </li>
+            </ul>
+        </div>
+        <nav>
+            <a href="/">
+                <img class="logo"
+                     src="~/pictures/logo.svg"
+                     alt="Logo Šátky od Věrky" />
+            </a>
+            <div class="ham-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="main-footer">
+        <ul class="footer-List">
+            <li class="footer-List__item">
+                <a href="./eshop.html"
+                   class="footer-List__link footer-List__link--main">Obchod:</a>
+            </li>
+
+            <li class="footer-List__item">
+                <a class="footer-List__link" asp-controller="product" asp-action="Index">Šátky</a>
+            </li>
+            <li class="footer-List__item">
+                <a class="footer-List__link" asp-controller="product" asp-action="Index">Turbany</a>
+            </li>
+            <li class="footer-List__item">
+                <a class="footer-List__link" asp-controller="product" asp-action="Index">Ostatní</a>
+            </li>
+        </ul>
+        <div class="social">
+            <a href="https://www.instagram.com/satky_turbany_a_dalsi_vyrobky/" class="footer-List__link"><span class="brandfont">instagram</span></a>
+            <a href="https://www.facebook.com/groups/1000698830906966/?ref=share" class="footer-List__link"><span class="brandfont">facebook</span></a>
+            <a class="footer-List__link" asp-controller="Home" asp-action="Contact"><span class="brandfont">email</span></a>
+        </div>
+        <p class="footer__text">
+            Created by David Tomáš<br>
+            Designed by Miškovská Marija
+        </p>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/ts/filters.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

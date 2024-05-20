@@ -1,0 +1,109 @@
+
+.main-heading {
+    text-align: center;
+    margin: 0.5em;
+}
+
+
+.eshop-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: .5em;
+    margin-bottom: .5em;
+}
+
+.add-btn {
+    background-color: #6A4343;
+    padding: .5em;
+    text-align: center;
+    border-radius: 1em;
+    text-decoration: none;
+    color: white;
+}
+
+    .add-btn:hover {
+        text-decoration: underline;
+        color: white;
+    }
+
+
+.card-layout {
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+}
+
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: solid black 1px;
+    box-shadow: 5px 5px 20px rgba(77, 29, 3, 0.60);
+    height: 100%;
+}
+
+
+
+.card__des {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-left: 1em;
+}
+
+    .card__des a {
+        color: #6A4343;
+        text-decoration: none;
+    }
+
+        .card__des a:hover {
+            text-decoration: underline;
+        }
+
+
+.img-responsive {
+    width: 100%;
+    height: 100%;
+}
+
+
+.sub-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    margin-bottom: .5em;
+    padding: 0;
+}
+
+    .sub-menu li {
+        display: block;
+        padding: .5em;
+    }
+
+        .sub-menu li a {
+            color: var(--bs-body-color);
+            text-decoration: none;
+        }
+
+            .sub-menu li a:hover {
+                text-decoration: underline;
+            }
+
+@media screen and (min-width: 768px) {
+    .card-layout {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+
+@media screen and (min-width: 1441px) {
+    .card-layout {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+    }
+}

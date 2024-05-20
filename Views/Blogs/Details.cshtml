@@ -1,0 +1,21 @@
+﻿@model web_satky.Models.Blog
+
+@{
+    ViewData["Title"] = "Blog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@Html.DisplayFor(model => model.Title)</h1>
+
+<p>
+    @Html.DisplayFor(model => model.Description)
+</p>
+@if (User.Identity.IsAuthenticated)
+{
+    <div>
+        <a asp-action="Delete" asp-route-id="@Model?.Id">Odstranit</a>
+        <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+}
+

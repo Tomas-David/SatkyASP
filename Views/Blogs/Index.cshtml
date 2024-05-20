@@ -1,0 +1,33 @@
+﻿@model IEnumerable<web_satky.Models.Blog>
+
+@{
+    ViewData["Title"] = "Blog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+    
+</p>
+<section>
+    <div class="blog-heading">
+        <h1>Blog</h1>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <a class="blog__add-btn" asp-action="Create">Nový +</a>
+        }
+        
+    </div>
+    <div class="blog">
+@foreach (var item in Model) {
+            <div class="blog__article">
+                <h3 class="blog__article-heading">@Html.DisplayFor(modelItem => item.Title)</h3>
+                <p class="blog__article-desctiption">
+                    @Html.DisplayFor(modelItem => item.Description)
+                </p>
+                <a class="blog__btn-more" asp-action="Details" asp-route-id="@item.Id">Více</a>
+            </div>
+}
+    </div>
+
+</section>
+

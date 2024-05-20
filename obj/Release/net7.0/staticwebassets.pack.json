@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\Satky_Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Satky_Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\css\\blog.css",
+      "PackagePath": "staticwebassets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\css\\brandfonts.css",
+      "PackagePath": "staticwebassets\\css\\brandfonts.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\css\\eshop.css",
+      "PackagePath": "staticwebassets\\css\\eshop.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\css\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\css\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\css\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\css\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\css\\one-produkt.css",
+      "PackagePath": "staticwebassets\\css\\one-produkt.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\images\\e399cf40-09b1-4b41-b3ab-293fa5c3a723_testovaci.jpg",
+      "PackagePath": "staticwebassets\\images\\e399cf40-09b1-4b41-b3ab-293fa5c3a723_testovaci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\js\\initTinyMCE.js",
+      "PackagePath": "staticwebassets\\js\\initTinyMCE.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\AboutMe1.jpg",
+      "PackagePath": "staticwebassets\\pictures\\AboutMe1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\AboutMe2.jpg",
+      "PackagePath": "staticwebassets\\pictures\\AboutMe2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\AboutMe3.jpg",
+      "PackagePath": "staticwebassets\\pictures\\AboutMe3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\IMG_20230831_202312_128_(1).jpg",
+      "PackagePath": "staticwebassets\\pictures\\IMG_20230831_202312_128_(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\ProductsThumbnail.png",
+      "PackagePath": "staticwebassets\\pictures\\ProductsThumbnail.png"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\chcek_mark.svg",
+      "PackagePath": "staticwebassets\\pictures\\chcek_mark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\corner.svg",
+      "PackagePath": "staticwebassets\\pictures\\corner.svg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\cross.svg",
+      "PackagePath": "staticwebassets\\pictures\\cross.svg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\logo.svg",
+      "PackagePath": "staticwebassets\\pictures\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\logo_barevne.svg",
+      "PackagePath": "staticwebassets\\pictures\\logo_barevne.svg"
+    },
+    {
+      "Id": "C:\\Users\\ttomi\\Desktop\\Visual_Studio_ Projekty\\C#\\Satky_Web\\wwwroot\\pictures\\produkty_uvod.jpg",
+      "PackagePath": "staticwebassets\\pictures\\produkty_uvod.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Satky_Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Satky_Web.props",
+      "PackagePath": "build\\Satky_Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Satky_Web.props",
+      "PackagePath": "buildMultiTargeting\\Satky_Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Satky_Web.props",
+      "PackagePath": "buildTransitive\\Satky_Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

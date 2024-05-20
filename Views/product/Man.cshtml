@@ -1,0 +1,46 @@
+﻿@model IEnumerable<web_satky.Models.Product>
+
+@{
+    ViewData["Title"] = "Obchod-Panský";
+}
+
+<section class="eshop-heading">
+    <h1 class="main-heading">Obchod</h1>
+    <menu class="sub-menu">
+        <li><a asp-controller="product" asp-action="Man">Pánská</a></li>
+        <li><a asp-controller="product" asp-action="Woman">Dámská</a></li>
+        <li><a asp-controller="product" asp-action="Kids">Dětská</a></li>
+        <li><a asp-controller="product" asp-action="Others">Ostatní</a></li>
+    </menu>
+
+    @if (User.Identity.IsAuthenticated)
+    {
+        <a class="add-btn" asp-action="addProduct">Nový +</a>
+    }
+</section>
+<div class="card-layout">
+    @if (Model != null)
+    {
+        @foreach (var item in Model)
+        {
+            @if (item.Genders.ToLower().Contains("pánská"))
+            {
+                <section>
+                    <figure class="card">
+                        <img src="@("/images/"+item.Image)" alt="produkt" class="img-responsive">
+
+                        <figcaption class="card__des">
+                            <h4><a asp-action="Details" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Name)</a></h4>
+                            <div class="card__body">
+                                <p>Cena: @Html.DisplayFor(modelItem => item.Price)Kč</p>
+                                <p>Varianty: @Html.DisplayFor(modelItem => item.Genders)</p>
+                            </div>
+                        </figcaption>
+                    </figure>
+
+                </section>
+            }
+        }
+    }
+
+</div>

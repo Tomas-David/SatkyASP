@@ -1,0 +1,45 @@
+﻿@model web_satky.Models.Product
+
+@{
+    ViewData["Title"] = "Produkt";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section class="container">
+    
+    <div class="product">
+        <div class="parameters">
+            <div class="productheading">
+                <h1>@Html.DisplayFor(model => model.Name)</h1>
+                <h3>@Html.DisplayFor(model => model.Price)Kč</h3>
+            </div>
+            <div class="productparameters">
+                <p>
+                    @Html.DisplayFor(model => model.Description)
+                </p>
+                <h4>Technické doporučení:</h4>
+                <ul>
+                    <li><p>@(Model.Washing != false ? "✅" : "❌") praní (40°C)</p></li>
+                    <li><p>@(Model.Ironing != false ? "✅" : "❌") žehlení</p></li>
+                    <li><p>@(Model.Dryer != false ? "✅" : "❌") sušička</p></li>
+                </ul>
+
+                <a href="https://www.facebook.com/groups/1000698830906966/?ref=share" class="order-button">Objednat</a>
+            </div>
+        </div>
+        <div class="productimage">
+            <div class="productimage-container">
+                <figure class="product__image--block">
+                    <img class="img-resposive photo" src="~/images/@Html.DisplayFor(modelItem => modelItem.Image)">
+                </figure>
+            </div>
+
+        </div>
+    </div>
+</section>
+@if (User.Identity.IsAuthenticated)
+{
+   <a asp-action="Delete" asp-route-id="@Model?.Id">Odstranit</a>
+}
+
